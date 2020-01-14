@@ -16,6 +16,5 @@ public class Main {
         } catch (TemperaturaErradaExcepcion temperaturaErradaExcepcion) {
             System.out.println("Erro "+temperaturaErradaExcepcion.toString());
         }
-
     }
 }
